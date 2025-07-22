@@ -32,7 +32,7 @@ Portal web moderno y responsivo desarrollado para facilitar la radicación y con
 
 ## 📸 Capturas
 
-![Captura 1](./public/demo1.png)
+![Captura 1](Captura de pantalla 2025-07-21 215523.png)
 ![Captura 2](./public/demo2.png)
 
 ## 📌 Estado del Proyecto
