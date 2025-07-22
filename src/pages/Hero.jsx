@@ -24,7 +24,7 @@ const Hero = () => {
 
     return (
         <>
-            <section className="relative min-h-screen w-full flex items-center justify-center bg-[#002b5c] overflow-hidden py-24 sm:py-32">
+            <section className="relative min-h-screen w-full flex items-center  bg-[#002b5c] overflow-hidden py-24 sm:py-32">
                 <Header />
                 {/* Fondos decorativos */}
                 <div className="absolute inset-0 bg-gradient-to-br from-[#002b5c] via-[#003f7f] to-[#0a4e9a]"></div>
