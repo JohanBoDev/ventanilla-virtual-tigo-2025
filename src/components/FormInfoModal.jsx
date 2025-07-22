@@ -64,7 +64,7 @@ const FormInfoModal = () => {
                                     <h2 className="text-xl font-bold text-white">
                                         Bienvenido a la Ventanilla Virtual de <img src={LogoTigo} className='h-8 ml-1 inline-block object-cover' alt="" />
                                     </h2>
-                                    <p className="text-gray-600  mt-2">
+                                    <p className="text-gray-400  mt-2">
                                         Aquí podrás crear radicados o consultar el estado de tus solicitudes de forma ágil y segura. Utiliza los botones de la página principal para comenzar.
                                     </p>
                                 </div>
