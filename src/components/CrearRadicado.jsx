@@ -125,7 +125,7 @@ export default function CrearRadicadoModal_Visual({ isOpen, onClose }) {
                         {/* Navegación */}
                         <div className="flex justify-between items-center mt-8 pt-2 border-t border-blue-900/50">
                             <motion.button type="button" onClick={prevStep} whileTap={{ scale: 0.98 }}
-                                className={`flex items-center gap-2 bg-gray-700 hover:bg-gray-600 font-semibold  py-2 pt-5 px-5 rounded-lg transition-all duration-300 ${step === 1 ? 'opacity-0 invisible' : 'opacity-100 visible'}`}>
+                                className={`flex items-center gap-2 bg-gray-700 hover:bg-gray-600 font-semibold  py-2 px-5 rounded-lg transition-all duration-300 ${step === 1 ? 'opacity-0 invisible' : 'opacity-100 visible'}`}>
                                 <ArrowLeft size={20} /> Atrás
                             </motion.button>
 
