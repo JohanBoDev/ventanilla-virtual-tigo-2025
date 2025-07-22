@@ -33,7 +33,7 @@ Portal web moderno y responsivo desarrollado para facilitar la radicación y con
 ## 📸 Capturas
 
 ![Captura 1](https://github.com/JohanBoDev/ventanilla-virtual-tigo-2025/blob/aec1dff0fc233c3846981d68681a91a1a068a041/Captura%20de%20pantalla%202025-07-21%20215523.png)
-![Captura 2](https://github.com/JohanBoDev/ventanilla-virtual-tigo-2025/blob/aec1dff0fc233c3846981d68681a91a1a068a041/Captura%20de%20pantalla%202025-07-21%20215523.png)
+![Captura 2](https://github.com/JohanBoDev/ventanilla-virtual-tigo-2025/blob/7ddff99308c9b19a87245f28a05c26f6a2f0ac5d/Captura%20de%20pantalla%202025-07-21%20215529.png)
 
 ## 📌 Estado del Proyecto
 
