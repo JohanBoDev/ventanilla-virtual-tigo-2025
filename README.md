@@ -39,9 +39,6 @@ Portal web moderno y responsivo desarrollado para facilitar la radicación y con
 
 🔧 En desarrollo. Aún falta conectar con la API oficial de radicados de TIGO.
 
-## 🤝 Contribuciones
-
-Las contribuciones están abiertas para mejoras visuales, rendimiento o integración con backend.
 
 ---
 
