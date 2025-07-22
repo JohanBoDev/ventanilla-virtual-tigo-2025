@@ -51,7 +51,7 @@ const FormInfoModal = () => {
                             {/* Botón cerrar */}
                             <button
                                 onClick={closeModal}
-                                className="absolute top-4 right-4 text-gray-500 hover:text-gray-700 dark:hover:text-gray-300 transition"
+                                className="absolute top-4 right-4 text-gray-500 hover:text-gray-300 transition"
                             >
                                 <X className="w-6 h-6" />
                             </button>
@@ -61,10 +61,10 @@ const FormInfoModal = () => {
                                     <Users className="h-10 w-10 text-white" />
                                 </div>
                                 <div className="w-full">
-                                    <h2 className="text-xl font-bold text-gray-800 dark:text-white">
+                                    <h2 className="text-xl font-bold text-white">
                                         Bienvenido a la Ventanilla Virtual de <img src={LogoTigo} className='h-8 ml-1 inline-block object-cover' alt="" />
                                     </h2>
-                                    <p className="text-gray-600 dark:text-gray-400 mt-2">
+                                    <p className="text-gray-600  mt-2">
                                         Aquí podrás crear radicados o consultar el estado de tus solicitudes de forma ágil y segura. Utiliza los botones de la página principal para comenzar.
                                     </p>
                                 </div>
